@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Misc
+.DS_Store
+*.log
+
+# Anthropic API Key (if stored in a file)
+.env
+config.ini
